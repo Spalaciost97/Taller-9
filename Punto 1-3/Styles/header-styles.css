@@ -1,0 +1,47 @@
+header {
+    display: flex;
+    margin: 0 100px;
+    justify-content: space-between;
+
+}
+
+.header__nav {
+    display: flex;
+    align-items: center;
+
+}
+
+.header__nav nav ul {
+    display: flex;
+    gap: 45px;
+    list-style: none;
+}
+
+.header__nav nav ul li a {
+    text-decoration: none;
+    color: #454868;
+}
+
+
+.header__settings {
+    display: flex;
+    align-items: center;
+    gap: 70px;
+}
+
+.header__settings div {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-family: 'Jost';
+    font-size: 16px;
+    font-weight: 400px;
+    color: #454868;
+
+}
+
+
+.header__settings button {
+    background-color: transparent;
+    border: 1px solid #45486854;
+}

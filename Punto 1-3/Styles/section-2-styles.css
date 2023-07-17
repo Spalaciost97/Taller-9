@@ -1,0 +1,15 @@
+#section-2{
+    padding: 20px 180px;
+    background-color:rgba(237, 128, 253, 0.15);
+}
+
+.section-2__info{
+    display: flex;
+    gap: 35px;
+    margin: 70px 0px;
+
+}
+.titulo-rosa{
+    color: #ED80FD;
+
+}
