@@ -7,7 +7,7 @@
 <a href="https://www.figma.com/file/ovvMCtLbyMBw0JsbjzGCn3/Figma-exercise?type=design&node-id=0%3A1&mode=design&t=NoZ8Pe0AqzkPYdQ0-1" target="_blank">Link de Figma</a>
 
 <h3> Link Página Web</h3>
-<a href="https://github.com/Spalaciost97/Taller-9.git"target="_blank">Link página Web</a>
+<a href="https://spalaciost97.github.io/Taller-9/"target="_blank">Link página Web</a>
 <h2> Punto 2: HTML</h2>
 <img src="./public/images/html.png" alt="html">
 
